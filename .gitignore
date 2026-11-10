@@ -34,3 +34,7 @@ Thumbs.db
 
 # Local Claude Code / preview settings
 .claude/
+
+# Vercel (local link + build output)
+.vercel/
+
